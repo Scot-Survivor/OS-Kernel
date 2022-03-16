@@ -50,6 +50,7 @@ and moves all the lines up, giving the affect of scrolling. This is achieved by 
 As previously mentioned I use [CLion](https://www.jetbrains.com/clion/) for C++. Configuring CLion to properly work 
 was a bit of a challenge. 
 The following image contains the configuration setup:
+#
 ![image](https://user-images.githubusercontent.com/40865296/158657358-17f22cc0-e988-46d4-a663-2eab8e130294.png)
 Where "CMake Application" defines the configurations' auto-detected by CLion. 
 Remote Debug, was the GDB configuration needed to debug my kernel through QEMU. 
